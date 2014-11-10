@@ -1,4 +1,4 @@
-TOP 10 SQL
+TOP 10 SQL for Oracle
 SELECT * FROM
 (SELECT
     sql_fulltext,
